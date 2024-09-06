@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fec5a68038faae33",
+        "id": "e6cc25681e1d73a9",
         "type": "tabs",
         "children": [
           {
-            "id": "f32440b27233ae86",
+            "id": "5db80960e1d26586",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2df35940978b2e97",
@@ -138,7 +139,7 @@
             }
           },
           {
-            "id": "0af725b606f5f9fc",
+            "id": "38d9d0377b9c78fb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -169,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0af725b606f5f9fc",
+  "active": "38d9d0377b9c78fb",
   "lastOpenFiles": [
+    "Excel 2024-09-06 13.35.42.sheet.md",
     "Untitled.canvas",
     "Dev/Backend/Java/Spring/Spring.md",
     "Dev/Backend/Java/Frameworks.md",
