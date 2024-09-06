@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "b48bdb1cb29889be",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec5a68038faae33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32440b27233ae86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fd1df8c201225ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "016bb7c98b4549c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b4f80a72bb3e732",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "690f0f3477ba5459",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8da297bdb15689d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2df35940978b2e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "948eacc123660047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24a7698ae62cd4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb641f4f619dc484",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbc6ea20e4eb2750",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "fa2127ef2d8dad7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9959a2dfbb469bb8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3609c75d1557409",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0af725b606f5f9fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "excel:Create Excel File": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0af725b606f5f9fc",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Dev/Backend/Java/Spring/Spring.md",
+    "Dev/Backend/Java/Frameworks.md",
+    "Dev/Backend/Java/Java.md",
+    "Dev/Backend/Java/Spring",
+    "Dev/Backend/Java",
+    "Dev/Backend",
+    "Dev",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Aritmética.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Subtração.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Subtração de igualdades e desigualdades.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Propriedades.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Quadro.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Exemplo de Subtração de igualdades e desigualdades.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Exemplo dos nomes das partes.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Nome das partes.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Comutativa.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Elemento Neutro.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Links.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Meio da Decomposição.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Meio usual.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Nome das partes.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Propriedades.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Adição.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Quadro.md",
+    "UDF/Máterias/Física/Parte I/Cinemática/Cinemática.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Subtração",
+    "UDF/Máterias/Matemática/Matemática.md",
+    "Excalidraw/Drawing 2024-08-31 13.58.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-02 11.55.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-28 19.11.29.excalidraw.md",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Exemplo de soma decomposição.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Exemplo de meio usual.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Sistema de Numeração Decimal/Quadro.md",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Exemplo dos nomes.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Exemplo de Comutativa.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Exemplo de Associativa.png",
+    "Pasted image 20240830210642.png",
+    "Pasted image 20240830210634.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Sistema de Numeração Decimal/Exemplo de antigos sistemas.png",
+    "UDF/Máterias/Matemática/Parte I/Aritmética/Adição",
+    "UDF/Máterias/Física/Parte I/Cinemática/Conceitos  Iniciais",
+    "UDF/Máterias/Física/Parte I/Cinemática",
+    "Excalidraw",
+    "UDF/Máterias/Física/Parte I"
+  ]
+}
