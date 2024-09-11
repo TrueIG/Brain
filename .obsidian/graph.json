@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#Geografia  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
     }
   ],
   "collapse-display": true,

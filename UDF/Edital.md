@@ -8,7 +8,7 @@ Edital: "[[Edital Processo Seletivo 2023.pdf]]"
 ## [[Língua Portuguesa]]
 > [!PDF|yellow] [[Edital Processo Seletivo 2023.pdf#page=9&selection=343,0,415,26&color=yellow|p.9]]  Parte I - [[Língua Portuguesa]].
 >  [[Processos de significação do texto]]. [[Distinção entre variedades do português]]. [[Adequação ao contexto]]. [[Sistema ortográfico vigente]]. [[Morfossintaxe]]: [[estrutura]] e [[formação]] de [[palavras]]; [[classes de palavras]], [[flexões de palavras]]; [[frase]], [[oração]], [[período]]; [[estrutura da frase]]; [[classes de palavras]] e [[funções sintáticas]]; [[período simples]] e [[período composto]]: [[coordenação]] e [[subordinação]]; [[regência nominal]] e [[verbal]]; [[colocação dos termos na frase]]; [[pontuação]]. [[Discurso]]: [[direto]], [[indireto]] e [[indireto livre]]. [[Organização dos textos]]. [[Estratégias de articulação do texto]]. [[Semântica]] e [[Estilística]]: [[sinônimos]], [[antônimos]], [[homônimos]] e [[parônimos]]; [[denotação]] e [[conotação]], [[figuras de linguagem]].
-## [[UDF/Máterias/História/História]]
+## [[UDF/Máterias/História/História|História]]
 > [!PDF|yellow] [[Edital Processo Seletivo 2023.pdf#page=10&selection=89,0,114,34&color=yellow|p.10]] Parte I - [[O Mundo Ocidental Durante a Época Moderna]] ([[Século XV]] ao [[Século XVIII]]).
 > [[Expansão Marítima e Comercial]]; [[Estado Moderno e Absolutismo]]; [[Estado Moderno e Mercantilismo]]; [[Colonização europeia na América]]; [[Brasil-Colônia]]; [[Humanismo e Renascimento]].
 ## [[Geografia]]

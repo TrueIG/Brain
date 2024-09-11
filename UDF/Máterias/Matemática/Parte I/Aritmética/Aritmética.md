@@ -7,3 +7,4 @@ tags:
 ## [[Sistema de Numeração Decimal]]
 ## [[Adição]]
 ## [[Subtração]]
+## [[Multiplicação]]

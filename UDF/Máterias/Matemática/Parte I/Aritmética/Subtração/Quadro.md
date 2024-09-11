@@ -99,9 +99,9 @@ Resto ^SBi0CPSS
 
 [[Subtração]] ^FAaesFlV
 
-[[Propriedades]] ^y29IZpgb
+[[UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Propriedades]] ^y29IZpgb
 
-[[Nome das partes]] ^Z8VoilLf
+[[UDF/Máterias/Matemática/Parte I/Aritmética/Subtração/Nome das partes]] ^Z8VoilLf
 
 5 - 6 = -1
 |5| = 5
@@ -113,7 +113,7 @@ maior [[módulo]] ^S9TQzglM
 19 - 10 = 9
 10 - 19 = -9 ^1hBq0ldB
 
-Não tem [[Comutativa|comutatividade]]  ^pJ1Etinf
+Não tem [[UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Comutativa|comutatividade]]  ^pJ1Etinf
 
 %%
 ## Drawing

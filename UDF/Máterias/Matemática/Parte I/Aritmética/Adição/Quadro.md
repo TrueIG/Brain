@@ -37,7 +37,7 @@ Soma ^KpKgUdAg
 
 +1 ^zlvwlUyP
 
-[[Comutativa]] ^8ZZHOI16
+[[UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Comutativa]] ^8ZZHOI16
 
 (183 + 924) + 87 =
 183 + (924 + 87) =
@@ -49,9 +49,9 @@ Soma ^KpKgUdAg
 
 1.194 ^KB4MUQSK
 
-[[Associativa]] ^rraMyExZ
+[[UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Associativa]] ^rraMyExZ
 
-[[Elemento Neutro]] ^eqXpRt69
+[[UDF/Máterias/Matemática/Parte I/Aritmética/Adição/Elemento Neutro]] ^eqXpRt69
 
 0 ^Y0A62KeN
 
